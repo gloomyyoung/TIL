@@ -3,5 +3,6 @@
 ```js
 const function = () => {
     console.log('test');
+	// ...
 };
 ```
